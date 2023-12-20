@@ -1,0 +1,28 @@
+{
+  "statelist": [
+    {
+      "id": 1,
+      "State": "Illinois"
+    },
+    {
+      "id": 2,
+      "State": "New York"
+    },
+    {
+      "id": 3,
+      "State": "California"
+    },
+    {
+      "id": 4,
+      "State": "Texas"
+    },
+    {
+      "id": 5,
+      "State": "Florida"
+    },
+    {
+      "id": 6,
+      "State": "Michigan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "citylist": [
+    {
+      "id": 1,
+      "city": "Chicago",
+      "State": "Illinois"
+    },
+    {
+      "id": 2,
+      "city": "New York",
+      "State": "New York"
+    },
+    {
+      "id": 3,
+      "city": "Los Angeles",
+      "State": "California"
+    },
+    {
+      "id": 4,
+      "city": "Dallas",
+      "State": "Texas"
+    },
+    {
+      "id": 5,
+      "city": "Orlando",
+      "State": "Florida"
+    },
+    {
+      "id": 6,
+      "city": "Detroit",
+      "State": "Michigan"
+    }
+  ]
+}
